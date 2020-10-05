@@ -18,7 +18,7 @@ class TestCase(unittest.TestCase):
 
     def test_get_log_event_count_launch_count(self):
         log_list = get_log_event_list("While Loops/tests/user_data.log", "Launch")
-        self.assertEqual(4701, len(log_list))
+        self.assertEqual(368, len(log_list))
 
     def test_get_log_event_count_first_event(self):
         log_list = get_log_event_list("While Loops/tests/user_data.log", "Launch")
