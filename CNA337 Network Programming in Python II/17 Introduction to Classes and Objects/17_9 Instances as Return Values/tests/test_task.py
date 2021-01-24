@@ -1,7 +1,7 @@
 import unittest
 from random import randint
 
-from ..task import ServerClass, biggest_server_object_sum
+from task import ServerClass, biggest_server_object_sum
 
 class TestCase(unittest.TestCase):
     def test_create_serverclass_type(self):

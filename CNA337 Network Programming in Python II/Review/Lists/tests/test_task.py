@@ -1,6 +1,6 @@
 import unittest
 
-from ..task import create_initial_network, add_to_network, get_server_at_index
+from task import create_initial_network, add_to_network, get_server_at_index
 
 from random import randint
 

@@ -1,7 +1,7 @@
 import unittest
 from random import randint
 
-from ..task import ServerClass
+from task import ServerClass
 
 class TestCase(unittest.TestCase):
     def test_create_serverclass_type(self):

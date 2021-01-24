@@ -1,7 +1,7 @@
 import unittest
 from random import randint
 
-from ..task import ServerClass, dhcp_service
+from task import ServerClass, dhcp_service
 
 class TestCase(unittest.TestCase):
     def test_create_serverclass_type(self):

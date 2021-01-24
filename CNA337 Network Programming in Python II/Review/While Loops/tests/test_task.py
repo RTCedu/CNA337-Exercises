@@ -1,6 +1,6 @@
 # import unittest
 #
-# from ..task import get_log_event_count
+# from task import get_log_event_count
 #
 # class TestCase(unittest.TestCase):
 #     def test_get_log_event(self):
@@ -9,7 +9,7 @@
 #         self.assertEqual(1, 1)
 
 import unittest
-from ..task import get_log_event_list
+from task import get_log_event_list
 
 class TestCase(unittest.TestCase):
     def test_get_log_event_count_list_type(self):

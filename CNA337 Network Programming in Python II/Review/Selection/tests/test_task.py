@@ -1,7 +1,7 @@
 import unittest
 from random import randint
 
-from ..task import is_ip_localhost, who_assigned_ip
+from task import is_ip_localhost, who_assigned_ip
 
 class TestCase(unittest.TestCase):
     def test_is_ip_localhost_bool_return_type(self):

@@ -1,7 +1,7 @@
 import unittest
 from AWSServer import AWSServer
 from ServerClass import ServerClass
-from ..task import local_server, aws_server
+from task import local_server, aws_server
 class TestCase(unittest.TestCase):
     def test_create_serverclass_type(self):
         server = ServerClass("127.0.0.1", "localhost")

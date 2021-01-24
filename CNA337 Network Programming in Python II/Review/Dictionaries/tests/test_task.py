@@ -2,7 +2,7 @@ import unittest
 
 from random import randint
 
-from ..task import start_dns_server, add_to_dns, dns_lookup
+from task import start_dns_server, add_to_dns, dns_lookup
 
 class TestCase(unittest.TestCase):
     def test_create_dns_dict_type(self):

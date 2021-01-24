@@ -1,6 +1,6 @@
 import unittest
 
-from ..task import create_initial_network, ip_in_network_list
+from task import create_initial_network, ip_in_network_list
 
 from random import randint
 
