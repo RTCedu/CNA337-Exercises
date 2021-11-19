@@ -16,7 +16,7 @@ class TestCase(unittest.TestCase):
     def test_add_server_list_type(self):
         network = create_initial_network()
         self.assertEqual(type(network), list)
-        network = add_to_network(network, "42.42.42.42")
+        add_to_network(network, "42.42.42.42")
         self.assertEqual(type(network), list)
 
     def test_add_server_four_servers(self):

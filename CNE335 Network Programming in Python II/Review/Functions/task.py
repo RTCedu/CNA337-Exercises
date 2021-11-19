@@ -3,5 +3,5 @@ def fake_ping(server_ip, ping_time):
     return
 
 def ping(server_ip):
-    # TODO - Call the mock_ping function with a ping_time of 10ms
+    # TODO - Call the fake_ping function with a ping_time of 10ms
     return

@@ -1,5 +1,5 @@
 def is_ip_localhost(server_ip):
-    # TODO - Return 'true' if server_ip = "127.0.0.1", False otherwise.
+    # TODO - Return 'True' if server_ip = "127.0.0.1", False otherwise.
     return
 
 def who_assigned_ip(server_ip):

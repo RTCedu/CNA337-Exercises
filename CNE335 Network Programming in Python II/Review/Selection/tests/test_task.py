@@ -25,5 +25,9 @@ class TestCase(unittest.TestCase):
     def test_who_assigned_ip_dhcp(self):
         self.assertEqual(who_assigned_ip("192.168.0.1"), "DHCP")
 
+    def test_who_assigned_ip_dhcp(self):
+        random_ip = str(randint(2, 254))  # Start at 2 to make 127.0.0.1 impossible
+        self.assertEqual(who_assigned_ip(f"192.168.0.{random_ip}"), "DHCP")
+
     def test_who_assigned_ip_unknown(self):
         self.assertEqual(who_assigned_ip("10.0.0.1"), "Unknown")

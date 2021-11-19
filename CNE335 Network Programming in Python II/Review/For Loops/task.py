@@ -1,7 +1,7 @@
 from random import randint
 
 def fake_create_initial_network_list():
-    # TODO - Return a list with 100 randomly-generated server IPs.
+    # TODO - Return a list with 1000 randomly-generated server IPs.
     return
 
 def ip_in_network_list(network_list, ip):

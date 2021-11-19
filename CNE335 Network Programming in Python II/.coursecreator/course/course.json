@@ -1,34 +1,31 @@
 {
   "course_version" : 1,
   "environment" : "unittest",
-  "summary" : "This course introduces students to advanced topics in the Python programming language. Students will make use of object-oriented principles to write multi-file programs. Students will make use of modules to quickly build complex software, and will learn to write effective documentation.\n\nThis is the second course in the series. It is recommended you complete CNE330 Network Programming in Python before attempting this course.",
-  "title" : "CNE 335 Network Programming in Python II",
+  "summary" : "This course introduces students to advanced topics in the Python programming language. Students will make use of object-oriented principles to write multi-file programs. Students will make use of modules to quickly build complex software, and will learn to write effective documentation.\nThis is the second course in the series. It is recommended you complete CNA330 Network Programming in Python before attempting this course.",
+  "title" : "CNE335 Network Programming in Python II",
   "programming_language" : "Python",
   "language" : "en",
-  "course_type" : "Marketplace",
-  "vendor" : {
-    "name" : "Zachary Rubin"
-  },
+  "course_type" : "PyCharm",
   "items" : [
     {
-      "id" : 1039418197,
+      "id" : 587818,
       "title" : "Review",
       "task_list" : [
         {
-          "id" : 2378992,
+          "id" : 2396688,
           "name" : "Functions",
           "files" : {
             "task.py" : {
               "name" : "task.py",
               "placeholders" : [ ],
               "is_visible" : true,
-              "text" : "B/N4ur8ZYC9HTe2oVdtlbe0BYy7cmmFGjuC0a7n55z5t47rPYNnRGTiSlF8qJDNaVx0PJu8w4BSa0yMHb7ss3vpP3z7QDOiiGgbZC+BVuWGLe9PscNTHvnUt/vGOCZxDu1E5zs2sNtAbZkTbMz5uSilwhIovUKKwz2D+O7LYPKhZwNfhFn+yAfErndVSgU9OG7944Q+SZ7lR+IAwhOfLXoIcBC6sPVtBFIyf/m+XXW+OtCGnf1+uLB0FIz7sTluQg1fFSDyHSVfXkWLXSqr0q5ocfUwwib8+q6Ba80U2c5YCOffqNS4kd476LNoEzujL"
+              "text" : "B/N4ur8ZYC9HTe2oVdtlbe0BYy7cmmFGjuC0a7n55z5t47rPYNnRGTiSlF8qJDNaVx0PJu8w4BSa0yMHb7ss3vpP3z7QDOiiGgbZC+BVuWGLe9PscNTHvnUt/vGOCZxDu1E5zs2sNtAbZkTbMz5uSilwhIovUKKwz2D+O7LYPKhZwNfhFn+yAfErndVSgU9OG7944Q+SZ7lR+IAwhOfLXoIcBC6sPVtBFIyf/m+XXW+DcXCKPDRasOyN42wXr6YZ9FzlNKjRTuwj5nxOToTvOto5OsxkB83QrCLYx0n+DfR2cSMHrnp2iLTpT4VdidrL"
             },
             "tests/test_task.py" : {
               "name" : "tests/test_task.py",
               "placeholders" : [ ],
-              "is_visible" : false,
-              "text" : "XIlL2u+4gqNTqO7La77YdaS8vbAafD5/QKBzfEZKnEHtfwmkNthhaDZzHZqLhadWavr3ftppDLQFqcosD8/LKu1UZs4T3R6zQB0NIRKxrZIiuIq82ynEzje6vhs3+dHInUkYXAHL7VYWf5AjHvHPRu4HHsquIB3sS1OH5gK+NbJ8RvZGce1/K9AD4YgBAQNzsuQyGM5jWYpM9BaqpEeZRa76c5GgiWPZi9di5HVf0tYaN+OofTIp/zYAMwV1mXLp5Ty2+uFj133VerLB+q8W3tY0na5CB/87BDxUSmOhEFQqO6Ezf20yuBcLNQOoGggIK9deYXNeu2ER29nFt267ZXtiSq3PTfpyM3wF8ICBDUaIFLYXEOYYPyOR5/tVQ6bSy3Fj7NPk18TibtfSgRBdl1vKMiXWLlo9oQxg/J4qEP+dzz8DCj0qDALqFliPg4DP6MSwy7zTbczIgh7yYPkFTdNwrUli2LmetUxEH9Ympb8kMKvdVmbi+W5bPc1c71Py+J8Ia39wz2nhcqw2WQpi50bRbD0aTsHtuZoDhyWBre0rJxVaDc+87p/augT0f6/FttozPEgjB93DBztZy2MJ0ahPMz5UzW1AwKt27fUVvgERXgIxJ/80SkXtl+AdZn1NKqfWYjGcZUDsmmQVT8YJ/HF8e27e5fjsKZv71b9gJzHUZOOQ06rkfqNMw9vI+0vtESxA41HTA2u2S440NJw5kHQ8wTNgzetnyJGQ1RWgKuaIsOAOqaN0XYMdOUgEtknSVQ6aAd0YJQpy0cgLpjFAJjxDgkVZ/AM1JqEdn++9CBEpZZBc2LqstVBYkBTW9DMHPIJn52BZtBw5Tmp+MR1ywJHWZztET350ENA4fhNY0XzmEKqLm+NgITcBzFTdinTE0/keV9oovaJ0NSN8Gp4JoQQWLlPCYzCLF3j+tU69JjYs/0fExZOBJ8zjALVrTKPd"
+              "is_visible" : true,
+              "text" : "XIlL2u+4gqNTqO7La77YdaS8vbAafD5/QKBzfEZKnEHtfwmkNthhaDZzHZqLhadWavr3ftppDLQFqcosD8/LKpb3IcThm+L8u4nsWO8Glbyb6lzqQdIHkz9CMdiAcivCAIlcy4pZVR/qy0zMeFH0qWSI9uV4SiROQJOckDVOi4zFG47biTal2MqQ2fNZx3ZGLa/I66XkCcZvxy3ZMNRB9GWGO9VWt0Kt9zjzJ1SAoMv+qZqFbm4wYTp95sRhHJ+NboG8Pisx2h2kKCEn+5TRCSvXmO0MweqLpGDrBOJJN7HasFJ1Z9l3tijscP3lr0NEdZUd9dZiCa6y6cFctLODpClvLOhu6l4zLJbSgfKo0qeRbfWOFIVjh4hNXS8NIom3u6HixG0aRhUi8tMCtLbNbAJl++nZI7vFF8E349+e7aBhhXy0jkOxVv5pqJC8lhGgFAmiFv978XLn4utRrUX9ZsIVJ5Olw0uK5fnX6w1lfjxiz1muxjAcodS//yYGqmPNVGXvkcabiTw6/Y/7qhTf5HH9lxnmZSbkHus/vYwddC1Cf4jiYIYLz7cdk2lLVDyBbSe4xH327SvCtMJHto6gE0y4GGzpka4bhI5CFyLy6JeLtbZE0I/190vpTnJGouU1t4mQRyz3z7UPZsh0QyPCCokUeH7geH1RJSKfMdoBXIiDHqg3EUUc2OVy/tt3sDOMmc4NVneOHE2oYkWZEyP6wgLhTI9SX5yDuGm49J3cC70Ieu4fXGwFKwFPPTyEzI8n9xWCfCvBSS8q8w6LktvavcCecWooKhDA2b0IDxU8zLxqkwR9d8H+kKo8jWMQ/GYxNHmIVtd+nWJRWc/wmFh6mu8iM1jG/+oFGG5mt6hz71z7KDWZxMRbbJp7ozcqf66nvgCn85zoj5+FjKL9e3ZJoHGef2ONrI7V8KvMwT/1oBzl9n31XOFXDeaFX+PAKLad"
             },
             "__init__.py" : {
               "name" : "__init__.py",
@@ -45,26 +42,23 @@
           },
           "description_text" : "<html>\n<h1>Functions</h1>\n<p>In Python, a <strong>function</strong> is a named sequence of statements\nthat belong together.  Their primary purpose is to help us\norganize programs into chunks that match how we think about\nthe solution to the problem.</p>\n<p id=\"index-0\">The syntax for a <strong>function definition</strong> is:</p>\n<pre><code>\n    def name( parameters ):\n        statements\n</code></pre>\n\n\n\n<p>It is common to use placeholder functions in testing, that behave like the actual function without hardware. These often prefixed with <strong>fake, mock, or dummy</strong>, such as fake_ping <p>\n<h1>Problem</h1>\n<p> 1. Write a fake_ping function, that takes a server_ip and a ping_time, and returns a string  </p>\n<p> 2. Have the ping function call fake_ping with a ping time of <strong>10ms</strong>, and return the result of the fake_ping function. Have the fake_ping function return a string that says \"Ping response from [server_ip] [ping_time]\"</p>\n<p>As an example, if you wrote <code>ping(\"127.0.0.1\")</code>, the code should return:</p>\n<code>\"Ping response from 127.0.0.1 10ms\"</code>\n\n<div class=\"hint\"><p>server_ip and ping_time are strings.</p> <p>Both functions, ping and fake_ping, should return a string (str). This means you don't need to use <code class=\"docutils literal notranslate\"><span class=\"pre\">print</span></code> in your code, though it is fine for testing and debugging.</p></div></li>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2378993,
+          "id" : 2396689,
           "name" : "Selection",
           "files" : {
             "task.py" : {
               "name" : "task.py",
               "placeholders" : [ ],
               "is_visible" : true,
-              "text" : "fhN3uKe1UdDe0jYRI3UidAGbvurEIobc4QfG7StNb2bnEFfLFdmLBzEsKOTzAVj0saLn+cHMtsbUmQ3N+ikZadfA1X7xCwb+liE5kAtXrxPsszB+e2sAXHKVG3mlY4trUtheT3lDm84En85Cuvlj+2Ev1GCdvk9HnsXOzE5lmxbt7OzqpXhLH7GEGYwsPs/t5plV/dCWroPEMBBOUTBw9Ou1wH/ZZWw89CtkhUitnovMR5pzhmFn/hDv5Md0cltZv52A3L1K9mt+/VPRRmAqG6X5DjiuyVr6tl1FOOrpVe0SKmLk/ybVbw0HwgfgIgb+if8kV3hoDHSPy634EUTo+KQMp02VSoy/vutY00VyGeRYpiEAdF5QvRNCso1V+bvm"
+              "text" : "fhN3uKe1UdDe0jYRI3UidAGbvurEIobc4QfG7StNb2bnEFfLFdmLBzEsKOTzAVj09U6jRMpFMqDTn5nARToReBZad0wXD6+Mhlb8O2V8zaH2R1KjJSQt7lWsjBx/X+PcNhAEMp2lJk2lkX2DGsZR5Skf9nhfN9FYTM1iXZ8HRUo3yUeNV4N+WwxYIrfURnrSesraU3s7rqBdk19eTt2waZZxVDD3ZW8/G+CUyEdvk0x7Q47A6MB1teH2tzkiwnMytePEZLdIubpfS0gz5dfFTbldacmKyB9ZlpUlVJvyMACZK2SAkktG+0YJNYELzL60P/FadOO3ULoKLIsSF5dUMINUmIis2m3HXmJ1sVpnO3rl2rw/sowUsbK5cNxpM9Bd"
             },
             "tests/test_task.py" : {
               "name" : "tests/test_task.py",
               "placeholders" : [ ],
               "is_visible" : false,
-              "text" : "XIlL2u+4gqNTqO7La77Ydfms7BkrLbWl87NHLmtcxgXyLueWp/5zTGylNNCPHFru+sw1/Mdw0545duui/mLjnYG/Pyq4MI3R1ZWbMPFMPTTHfSIKgAJRZCN3FLG0Zn1YNN8qJvxEQ5SUdOUEybg3pjdBk5Q+iCIRBEQVAD7AQCPCG9dhY7vo3tDbzju5/qOxnOudRignIVgVKhTkMVcHK7Ny1wBBdV3vghIzURnfZ9ozHS9DLMDd0oaUG75HCruZK3tVEzU7MrabzJKTfau0eZjABrLn+rCs7SxsNc2I0Y77bF7VoCVj3DDelYn6+4vPOmFUzg79z82YLkVKiy0rT/z82urGAVRFpMRecLzFiXXtzZbz13e4MK4EBpioCrV7EMPSxxqrwmuwaOC6ueLeliUMeiUXvjPNZdNksjnXR0Yo7ActLoAIHaLRhC+C4Lcn5anbB3vl1bX+o+ibIs8kAuyfsDbPKtwRomqHkfppj/6MIMlu6kZ+hy5qBDiTFyLoOW5SWZ1WSK4ruG+gv0047YiBTHDqoNKqLayjsdzYagZiroMHOyjRz6uC/llMjsDwT+XPiFty4UiOK6KxJjZHnrDmTZIMUbmPL2/JuhNUtbMil8eLadlFvkC2tjoajzTUxYP+5n1yRGI4bCDgh8pCsihmn+lbSfaKFpQ+HW+tTEpKhe5Po1MIY92gEo0afQjopFvwrSHXb2RXLMKuEzwjW8d4Iwdy1gHe6SQHFzg6fqjksd9Sq7MCpxV90MQcTcU7E/j95t+LjB3NaeKtfJfJVKdjp4EOAWq9+rHs2qCz5ybPadiSMmqqzVLWe0JvlYRHsJS+h0zqGi7AFoAZHhO7EagBVb4QNolyPanllFl+Bx+UDSzVUambUVb2LbNij/9QhBA12RTZB1y6aooUr2bbBuxP7jv5FKeJLPlRztLRKL2wBgfR0efhzJfuU4asEqtcyd8kpTY8D0mHJMygImf/7chdOP+LLosdanJLuriLNSJmNOOGPEO/n0QQCkXj80S8KWs2Vp8XscSE+0e0L0GwRUfgxoWUDKrMRKtBUXkvc2gyR0FELVGDNfnExAPbmX8znFWMqQHx4kKdi5734UIvRPaVoxT2eBCNAy/MXXNStKogkPbDg9ZkJtE7CXO1PR2BjZgykJjTlW4EhXVserlpG3VqGKMaDrdEpVhj+KwpA8qfRa8rt6AZY4jg2LJ2kBcH4mPALcaMksOYgxzjz7c9isz0hvkkl49VokbwnUc4jKnVAeqnD6QnjsXFUxTB8DgPbayW8JNpDC/Z5L8BZCixjP4Z3EywyPoezfKR8GK+pL63SK1NHaJc0OS7gRCZNFp/ywpMD6dAe7u0y2cXnioOtNkC+HKp5sIE7kTSbESqKqsSza43xuY/CPAXGqYG29+aZb2mNoCwtTGkA54WHGvglg=="
+              "text" : "XIlL2u+4gqNTqO7La77Ydfms7BkrLbWl87NHLmtcxgXyLueWp/5zTGylNNCPHFru+sw1/Mdw0545duui/mLjnYG/Pyq4MI3R1ZWbMPFMPTTHfSIKgAJRZCN3FLG0Zn1YNN8qJvxEQ5SUdOUEybg3pjdBk5Q+iCIRBEQVAD7AQCPCG9dhY7vo3tDbzju5/qOxnOudRignIVgVKhTkMVcHK7Ny1wBBdV3vghIzURnfZ9ozHS9DLMDd0oaUG75HCruZK3tVEzU7MrabzJKTfau0eZjABrLn+rCs7SxsNc2I0Y77bF7VoCVj3DDelYn6+4vPOmFUzg79z82YLkVKiy0rT/z82urGAVRFpMRecLzFiXXtzZbz13e4MK4EBpioCrV7EMPSxxqrwmuwaOC6ueLeliUMeiUXvjPNZdNksjnXR0Yo7ActLoAIHaLRhC+C4Lcn5anbB3vl1bX+o+ibIs8kAuyfsDbPKtwRomqHkfppj/6MIMlu6kZ+hy5qBDiTFyLoOW5SWZ1WSK4ruG+gv0047YiBTHDqoNKqLayjsdzYagZiroMHOyjRz6uC/llMjsDwT+XPiFty4UiOK6KxJjZHnrDmTZIMUbmPL2/JuhNUtbMil8eLadlFvkC2tjoajzTUxYP+5n1yRGI4bCDgh8pCsihmn+lbSfaKFpQ+HW+tTEpKhe5Po1MIY92gEo0afQjopFvwrSHXb2RXLMKuEzwjW8d4Iwdy1gHe6SQHFzg6fqjksd9Sq7MCpxV90MQcTcU7E/j95t+LjB3NaeKtfJfJVKdjp4EOAWq9+rHs2qCz5ybPadiSMmqqzVLWe0JvlYRHsJS+h0zqGi7AFoAZHhO7EagBVb4QNolyPanllFl+Bx+UDSzVUambUVb2LbNij/9QhBA12RTZB1y6aooUr2bbBuxP7jv5FKeJLPlRztLRKL2wBgfR0efhzJfuU4asEqtcyd8kpTY8D0mHJMygImf/7chdOP+LLosdanJLuriLNSJmNOOGPEO/n0QQCkXj80S8KWs2Vp8XscSE+0e0L0GwRUfgxoWUDKrMRKtBUXkvc2gyR0FELVGDNfnExAPbmX8znFWMqQHx4kKdi5734UIvRPaVoxT2eBCNAy/MXXNStKogkPbDg9ZkJtE7CXO1PR2BjZgykJjTlW4EhXVserlpG3VqGKMaDrdEpVhj+KwpA8qfRa8rt6AZY4jg2LJ2kBcH4mPALcaMksOYgxzjz7c9isz0hvkkl49VokbwnUc4jKnVAeqnD6QnjsXFUxTB8DgPbayW8JNpDC/Z5L8BZCixjEj0aik8vzoITNC1qV8XuFGXC25Yq09CofroWqu+7n1Pqw4dJgo8jDyecwLyO10pI6qnsfOoQtqHvj1/2fLZ8fuWu+ptNf5CvX20A2C3eQUNNzDHzrsxQl/vcLe+a+/BmWWtOEFAdjWRYZohbRc/4KYSrP6xLj31FuuKUWVCYU1GNRwGnDxtzObQPm9/aHmFhDAOHAnFEwfFoQspYXEn1LVDnWTHTC5meZ5D6pip1jHXB0oU5M2XUdhiHzl32To1H4TrWFFnsst0pBryXnMn0SyPDDrh///vwMJJXsQnM19DzWd+wt0O/NCLPsYnfp6ryoAViebX6Jh8GeXaWprzV7WWU7K8Wy5drEdiXEQlAw9CMKfakzDY3uOifr2cE3dJVQ=="
             },
             "__init__.py" : {
               "name" : "__init__.py",
@@ -79,28 +73,25 @@
               "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
             }
           },
-          "description_text" : "<html>\r\n<h1>Conditional Statements</h1>\r\n<p>In order to write useful programs, we almost always need the ability to check\r\nconditions and change the behavior of the program accordingly. <strong>Selection statements</strong>, sometimes\r\nalso referred to as <strong>conditional statements</strong>, give us this ability. The simplest form of selection is the <strong>if statement</strong>.\r\nThis is sometimes referred to as <strong>binary selection</strong> since there are two possible paths of execution.</p>\r\n<p>The syntax for an <code class=\"docutils literal notranslate\"><span class=\"pre\">if</span></code> statement looks like this:</p>\r\n<pre><code>\r\n    if BOOLEAN EXPRESSION:\r\n        STATEMENTS_1        # executed if condition evaluates to True\r\n    else:\r\n        STATEMENTS_2        # executed if condition evaluates to False\r\n</code></pre>\r\n<h1>Problem</h1>\r\n<p> 1. Write a is_ip_localhost function, that takes a server_ip and checks if it is equal to 127.0.0.1. If yes, return True. If no, return False. </p>\r\n<p>As an example, if you wrote <code>is_local_or_remote(\"127.0.0.1\")</code>, the code should return a boolean:</p>\r\n<code>True</code>\r\n<p> 2. Write a who_assigned_ip function, that takes a server_ip and returns:  </p>\r\n<p> Localhost if ip is 127.0.0.1</p>\r\n<p> DHCP if the ip starts with 192.168.0</p>\r\n<p> Unknown otherwise</p>\r\n\r\n<div class=\"hint\">\r\n    <p>server_ip is a string.</p>\r\n    <p><code>True</code> should be a bool, not a string.</p>\r\n</div>\r\n</html>",
+          "description_text" : "<html>\r\n<h1>Conditional Statements</h1>\r\n<p>In order to write useful programs, we almost always need the ability to check\r\nconditions and change the behavior of the program accordingly. <strong>Selection statements</strong>, sometimes\r\nalso referred to as <strong>conditional statements</strong>, give us this ability. The simplest form of selection is the <strong>if statement</strong>.\r\nThis is sometimes referred to as <strong>binary selection</strong> since there are two possible paths of execution.</p>\r\n<p>The syntax for an <code class=\"docutils literal notranslate\"><span class=\"pre\">if</span></code> statement looks like this:</p>\r\n<pre><code>\r\n    if BOOLEAN EXPRESSION:\r\n        STATEMENTS_1        # executed if condition evaluates to True\r\n    else:\r\n        STATEMENTS_2        # executed if condition evaluates to False\r\n</code></pre>\r\n<h1>Problem</h1>\r\n<p> 1. Write a is_ip_localhost function, that takes a server_ip and checks if it is equal to 127.0.0.1. If yes, return True. If no, return False. </p>\r\n<p>As an example, if you wrote <code>is_ip_localhost(\"127.0.0.1\")</code>, the code should return a boolean:</p>\r\n<code>True</code>\r\n<p> 2. Write a who_assigned_ip function, that takes a server_ip and returns:  </p>\r\n<p> Localhost if ip is 127.0.0.1</p>\r\n<p> DHCP if the ip starts with 192.168.0</p>\r\n<p> Unknown otherwise</p>\r\n\r\n<div class=\"hint\">\r\n    <p>server_ip is a string.</p>\r\n    <p><code>True</code> should be a bool, not a string.</p>\r\n</div>\r\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2378994,
+          "id" : 2396691,
           "name" : "Lists",
           "files" : {
             "task.py" : {
               "name" : "task.py",
               "placeholders" : [ ],
               "is_visible" : true,
-              "text" : "qRY2soXcxJEqHnjcyMuO7aF50C9kFOoFnKF4ESYFeaLE8ZL8axYVNG1ge9kxErclI+yvvhiqbRDiR7QQCQ7kyQhoFdchSj3oblz/RXSGYRLAxyYBsHc6lfP7Sqpu9eXdUWYahj2+qaIfGuh2jWlRiA3SehABLfSl9c7zxVcpGbYVTybWJMPNt2LeF8bLTIB/0mVALg8VkwYPogvP+Ob2gkLm/k1NvRz8AiTXciQeXPVVumeBfLnQhYlBDlJxDuWJJCeXu0Lgt/Xy9PyWQMjXmRlbMd/3gf3V2L14Tvob7hFzEKRKhBOekeIm+LY0U85apICo13eBmvQw6Lzj9qbfa8dGLeAEh1THwyPrH0Xfy40T+EmW0evXLy6jIFEGWjMb28nWHRAxDZcT1yi+ms+t2g8+Jp730v+XXBrCB3xvqQydP/Fejx+8seIZtmdRVIO8P23wT4lDZQTxqBnSl4lI8SNqiGNf0/x0l4xsZkqt+8R5mhHiranyZenT2aqz/VVa7tz2x+3sHBP+VCJ3Fnrd/LBeE1MBNdAVAi1tSziT1Sand2XxafvsQ/ebf1iugHETKlU7fu9lAVffZs5kaEwtN30MKiFjLJqTefOORZyL+HzTaR/02Vzx+qHrGtUPdD3BN1bnXIMv6BU2LfynZOBBFmsJqFdR/DQmWxWIvuk4evJcIktMOyFOjc0eIGe+mBPqUP9Ry/9DJpUdVoZWBTqid6tX/5mUIVYZDJ4rfhhlvQk="
+              "text" : "qRY2soXcxJEqHnjcyMuO7aF50C9kFOoFnKF4ESYFeaLE8ZL8axYVNG1ge9kxErclI+yvvhiqbRDiR7QQCQ7kyQhoFdchSj3oblz/RXSGYRLAxyYBsHc6lfP7Sqpu9eXdYW2YJz5PfrSH07eczf1pMfHt2EYxEW7G9hp89A+qWuUYZL4MLOlzTzQs++rVfSp0v7MeUPdoZTMHufTw8aAoflk4eDbKNeqbQvMA2v/MJKtX17+KdJIlhts9OAKTkNSTgBclEbcaSQ4ip6j1qalSaRPh/J/AXIpSu70OeaKpZjUwztKu8Wty6DHdn/ZhN/gczNDvgTvBHpFsl8dR/j+dxqP1xWIsGS5T4JdGr8boNw726htnhBE2JsvlZL0/tVBCG/zDU/MT40MvHDvtjSStq302QciglLPIjjm/mepZDGIiZ+PFWS0Xb5futkpwqTaRgIbOiLubMf1YnD/Tt5wDz50HkKUzMnTdqPAmMltWiCtJOabqAWqP6dnPADfmLXGuYOL+IL17fAmm6QOLKE26SGZYkQSAusVnDnUbTouzFF/xF4ujVTY05/E7B9QVgQDzBnZ++MbJNCR95tOjc6vAO56EYXGqBJ1+Ap/Q6zzuOHfHiM1laDd+IQtxBwESMJdaHW9HcP6lzXXMxqvRfHiGOOiKSwC3iMQuQ5NUKu2QcNu+VPi6kOiHLLiyzIX5GFaohOI40PpK8fg0ugwZJIL5/tixkzSPbIzZkhnAsUnspGujuaBYG4mX8CkOZIzv10rkE/TGoaPqjF5gm9vmugYUoQ=="
             },
             "tests/test_task.py" : {
               "name" : "tests/test_task.py",
               "placeholders" : [ ],
-              "is_visible" : false,
-              "text" : "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"
+              "is_visible" : true,
+              "text" : "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"
             },
             "__init__.py" : {
               "name" : "__init__.py",
@@ -117,13 +108,10 @@
           },
           "description_text" : "<html>\n<h1>Lists</h1>\n<p>A <strong>list</strong> is a sequential collection of Python data values, where each value is identified by an\nindex. The values that make up a list are called its <strong>elements</strong>. Lists are\nsimilar to strings, which are ordered collections of characters, except that the\nelements of a list can have any type and for any one list, the items can be of different types.</p>\n<p>A list within another list is said to be <strong>nested</strong> and the inner list is often called a <strong>sublist</strong>.\nFinally, there is a special list that contains no elements. It is called the\nempty list and is denoted <code>[]</code>.</p>\n<h1>Problem</h1>\n<p> 1. Write a fake_create_initial_network_list function, that creates a list with 3 IP addresses. IPs are your choice, 127.0.0.1, etc. </p>\n<p> 2. Write a fake_add_to_network function, that takes a network list and an ip, and adds the new IP to the list.</p>\n<p> 3. Write a get_server_at_index function, that takes a network list and an index into the list, and return the IP. Return \"None\" if an invalid (such as -10) or out-of-range index is provided.</p>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2378995,
+          "id" : 2396692,
           "name" : "Dictionaries",
           "files" : {
             "task.py" : {
@@ -135,7 +123,7 @@
             "tests/test_task.py" : {
               "name" : "tests/test_task.py",
               "placeholders" : [ ],
-              "is_visible" : false,
+              "is_visible" : true,
               "text" : "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"
             },
             "__init__.py" : {
@@ -153,25 +141,22 @@
           },
           "description_text" : "<html>\n<h1>Dictionaries</h1>\n<p><strong>Dictionaries</strong> are a different kind of collection. They are Python’s\nbuilt-in <strong>mapping type</strong>. A map is an unordered, associative collection.  The association, or mapping,\nis from a <strong>key</strong>, which can be any immutable type,\nto a <strong>value</strong>, which can be any Python data object.</p>\n<p>One way to create a dictionary is to start with the empty dictionary and add\n<strong>key-value pairs</strong>. The empty dictionary is denoted <code>{}</code></p>\n<h1>Problem</h1>\n<p>A Domain Name Server converts site names, like google.com, to their IP address 172.217.3.174. Using a dictionary is faster than a list, because you do not need to check other elements to find the right one.</p>\n<p> 1. Write a fake_create_initial_network_dict function, that creates a dict with three items, make the server name be the <strong>key</strong> (i.e. google.com), and the server ip be the <strong>value</strong> (i.e. 172.217.3.174) </p>\n<p> 2. Write a fake_add_to_network function, that takes a network dictionary, a server name, and an ip, and adds the new IP to the list.</p>\n<p> 3. Write a fake_dns_lookup function, that takes a network dict and a server name, and returns the IP. Return \"Not found\" if name doesn't exist.</p>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2378996,
+          "id" : 2396693,
           "name" : "For Loops",
           "files" : {
             "task.py" : {
               "name" : "task.py",
               "placeholders" : [ ],
               "is_visible" : true,
-              "text" : "qfsGgOCumdmJ4tbXi5aT9eFdFtLLZ63ne2miQIyLQKWeaOZi/3gUl1g46u14ZLP1wY0d2RLxIVGSFc8zZb3qGI7dDIC/l8LbYxi9QoOsU206si5o5A2kFrkvj4VK6eATUkzzQoO1SjVYQ/qKlHGz4kbsxWpv2w5/4uUT2zPoKAwZpm8BtaMqw+S/10ZbTThyJ+20nBKErbCxP+Jq6rMyN/AjYsbdU6vdL4/PPo254btPsLCZFZ8hBNr4w9EOWlZLS1AFpRS43pl9fvAzusDUWpKHXQexlMwpDeA6lg5uDMwlmWL5oCPVupMUqK7xRsjnxoPZGBTjmLe1QhUcI3A++cbis1CT1wTz+NWKmKze86evAJD9Mh/m47KTLK3ndcE1WtgcNScpL2HThTHzwWVPEgkZY/wzFYNVO4PHjl1Cvkp9A9tc5ck8M/uDuhiczE3w3Av2w1tok6pMJMp4c+2b0tU4N0W8rwjTep+PwtcRPmYquLd0rE0nScGmWVgBTuQo4/Az/zZKOTlXpglGzOSg1g=="
+              "text" : "qfsGgOCumdmJ4tbXi5aT9eFdFtLLZ63ne2miQIyLQKWeaOZi/3gUl1g46u14ZLP1wY0d2RLxIVGSFc8zZb3qGI7dDIC/l8LbYxi9QoOsU206si5o5A2kFrkvj4VK6eAT9AQYr/BLFlirZm/X6EOdAo4O/+p2plQ7SlK2396MXGrvHfGdCDhQ3rH3L2yUONJOn5PsJBk6Mx0hF8fuUPPIuKHQwfMEbMPYLqd44pE+R9DGPxrL/6z+DBYyS2Tld/ZhuXqIkSePgiaEaI/3O0CGQpa1jM6XV6O3uFbNHkhZgJzXBTdh25qmEs428Agw67JAxf/3eP7JAc5pSbCmqRrRGMa8X7m/Rj6r4Vr70KUSeCTtG7Z+UOBuTu7Bh+Sf49JG97i5g1wR/fDRXBammqp06fr1C0YI6CRQ6Zrr15moZ8Qgrjfol31Swf4FRvwsDetgNNuR5HQiVaQqHRHoauvcoaA7Q/oMM9+ywPWDgTpyrhuSZfVjQOuyvdRw7x4UDigvM078UQtl6UUrhzvnyostbQ=="
             },
             "tests/test_task.py" : {
               "name" : "tests/test_task.py",
               "placeholders" : [ ],
-              "is_visible" : false,
+              "is_visible" : true,
               "text" : "XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4daR/X88Uf0KmX+38gS3lEpe7YfKiajpJUOtdSruNP3EOnqNHHjxopn3g+HMwcGBJ1lkl94cVo52lj/FXAZw0gGzMrV6tXNwMrHw6BwGr1055QfDay8ZjQCFAlvAYZOjoHC+aT66V+wu/m74MU20Iiqi20idr8IXquRz56ohgidGQ1Hr9tkmN14CmU2voYXp4qfUWe4Ve9P7Hs7YrlsNJcrVwlMVS3MmSykj0ZsbGEisEndMJdKyAabiGoZ9Xp9AplQHpD40UL8R9LP3FRkun9FRgF+3+8wnlxt+68Q62K9nk09ayPtOLink8el2xr3v0CHXEqhfPcdTfvq8goAl/KOVxOLg0mJ0f6k1/eDA4nO8LzLciPR9SPceW4CVLM9dy24uMe6qW+0XfyIK7L7jTClHc3o/kWLDvpJewx4/ZvmDdV+oYdN+KV1b7DB8dZqcaMLg0FZFc7SOcABSfTUPQGOE2hXQ0MZhLk4hdSTYMrAUeUz9CE+whOwA76HdbLo7j314x8q47a3Wiss/o+41N0oodxN5NB/HNY8KH1WEBdwvPsHC+WxZLEEJi6asFxRh/WJ9zH7C8EqY214TucmTLcoNcp3BKwjsJX1IkOUCFQyq/VTW+vg0J1uCJc2Ml8iIdjMKYPyxGi6W1470ZmBHp+yE8n1uQjgWUlHJOkFeDUIpcG+EuCfbnmZZ/2Iu8hOU9AhBbHImDGjcKHN4+q07Y9ZKLRn+SPJDTb+eslTR531t7pq0FH/s08A7cdLiOSyQq1Yf4TpBebVXvOrdZr3LqOGWTNHA3/1mBqi3TEId7kJBIGTRiMTXCrDri//2ZQZgjcqgzo9ykp2T97HNrI7yhTanzBuFmRE+AZYIU2XMztpyPAlBnZcRHRp6B0KizqIfWGaBV8jwqaDp3DuYNUqFsYJxZE3C5ieg9K27UU8IYBO8+r+WpfI/w0auV141JBgjuOujPiSzOLjCpQPRBqddUnnpAAm/BwJCxc/muZ29XQf8TGS59tS9WVx7mxdDUFaH40o6GI7ngtc3mXew8PlKuTkmi11tMi3VO/JNWrMCqrZsB9+xIl9PJB592CHhWypHeIHzOk4EFatlttYtHAwC5cMwRhlrAHs8Mvb8jZ4HUNnvogPUoHGrR8iYsLe1gxsBaQnoXSy/UbyTCUuxUEJmKqL2PICHjClUts7uXBb5rrCXY1eublzNRHuS9KDak22H76sQCstN1VElWJNKkRbomoBbGiWy3Y2hXhRCK84QU8prreiMZUxvmlF9U+qC8MP773uRgazhFS+P3NqLYGbcsguq/fXm1Gl5SOHXG9xqvEb+WTafiG5sfwFGEYDfid4PyFJfLfIigomI/dvdPYOBPQRysjjzY+o0DNwV5asB3keFbl7r3yur+sA/REj8yG6subo6QoVh/FZH4cF2kIYHpkr"
             },
             "__init__.py" : {
@@ -189,14 +174,11 @@
           },
           "description_text" : "<html>\n<h1>For loops</h1>\n<p>The <code>for</code> loop processes each item in a list.  Each item in\nturn is (re-)assigned to the loop variable, and the body of the loop is executed.\n<h1>Problem</h1>\n<p>A Domain Name Server converts site names, like google.com, to their IP address 172.217.3.174. Using a dictionary is faster than a list, because you do not need to check other elements to find the right one.</p>\n<p> 1. Write a fake_create_initial_network_list function, that creates list dict with 1000 random IPs. </p>\n<p> 2. Write a ip_in_network_list function, that takes a network list and an IP, and returns the IP if it was found in the last. Return \"Not found\" if name doesn't exist.</p>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2378997,
-          "name" : "While Loops",
+          "id" : 2396694,
+          "name" : "File IO",
           "files" : {
             "tests/user_data.log" : {
               "name" : "tests/user_data.log",
@@ -231,26 +213,23 @@
             "tests/test_task.py" : {
               "name" : "tests/test_task.py",
               "placeholders" : [ ],
-              "is_visible" : false,
-              "text" : "1lMuFUVjy32chyQYnJIYBaCA4D0Q39XUVXETXBGWi9fL094bpIvA/aZ6403mx7REkj3niQE+oikjAMHaX5A9mMtA2kPoifCOO7aode0Tum9k9ZKpDLbdeGeQLRXTY6Swm9stRRTwJZQYGNhNcgiqDCLBq1M3C2qlOIj3vs7j6aeRXbdnDXccNWOLRl0Pd5kWeS1/bXTivO4XjBBoT6W9QOO2Ug+G55ubdv+FRZJL4HJkICZtHSVY6LaTKkWNrrYGb1j+3QMFrj9ruFW2aO+xf8OBD3moCtbFRvsiWM52F/XhKakI8p/iPYd0hhFAmCfag6tz+UjO+de/gC6bCv/723qA5mR17mATqzBjR4NqAZViA8YHOHZi0+ieg14LqZYkjNofHtu+t4LhcTZIhF/rIfFG8Y50TH8Tu9UHVnCpkjG9UJhILoWZU4YU0a1FXB8V3Ccx8U2ueHw70um2amonkQjRqfcfl0m09brwcfoQBnoT7sOEB3jOwPfGrLJIREZJJ6aM0vKlyvNfd73bMOSyjyth5d/8KvG5vcWqJnHr1FwnkTrEC6LhGlvMRXJm2Am3Umich0JR34SkyHxIbYANjnGap5oQYuO/xYwAH8bpunBJ5/68cNGgl93ROo8YybnekhgL1J6fiQg6FSoEFnhMbaQbf1Kc3SgfCsHm91PFdykEGOWvIfNfmA/5cX9yKH/VbP+btMyZKZmQhAUSgTz0D99vRyK6zgMwWCttoc2EEgGRNuH3FqziI41IbGTxhMKNqoq/22NHF+G9VlxLRnO4ufeY2g0sRbDoe5KTGXBYe71mhjd7B38VpGJTc32mnouUY2pk/P9rCDUZSp790F/aW1LOFriQhII0HyGuAIYamwPb4Dbt3XNc1cGDD0sQk6/kA/0GjItdXXIoauTZIoCHqFcRVpZXGlcdU0/36z68TkO6US9MHADYq/ZmCm9b/V9B2cTPHoH/yJB6pbFqhzEq3n4d5kabLroUO7bjIDuCuhqeVEtTntgcXqvewiQhmnO/YzesuFDbS4eJogl1F9OZoyRyTAmEoLarQrjyQuZLM1okRWbr1cs/lnVmFrZJRaetAhDTGZSTF0ilPV+laOxl1uywv0xFBS86Xgihb8bFBxcXcuJhWjfLtviM8fCbQGJQAl1N21aKMU3BV20gjZMb8iyr0lYaENaHfhPDru3JzEGBv1pVnBc/x4RE6W0Cl6SqlSG0qQrfvPUR9eM4lGj/EFTB5KuBGb5hZDBl7FhwAnKR9aOTuDxL/jC276yBisAvLS9zm7WoJFtJ8i0inaT/s1VclRHFcq5Nh2hZPUN4mLhUzn7IdZb0NtaH2L9e1WubsWwsL9ptya8GYhg8ShKfgOo4i12RZ3KD6ciiB3PBuBoirHjKuh2M8dmz64hk6AolWGtCxDutBciwfkfULbi7J0NIGbR524Rtyylp8HK/M+O1bMO2h0Z4GGYTvMe1F0f3buBGSHNpHb0mpEYFU030HN22M3ug1SkF7Z15yfZzj/HM7PD93+5IfShDcvAu4l+L"
+              "is_visible" : true,
+              "text" : "1lMuFUVjy32chyQYnJIYBaCA4D0Q39XUVXETXBGWi9fL094bpIvA/aZ6403mx7REkj3niQE+oikjAMHaX5A9mMtA2kPoifCOO7aode0Tum9k9ZKpDLbdeGeQLRXTY6Swm9stRRTwJZQYGNhNcgiqDCLBq1M3C2qlOIj3vs7j6aeRXbdnDXccNWOLRl0Pd5kWeS1/bXTivO4XjBBoT6W9QOO2Ug+G55ubdv+FRZJL4HJkICZtHSVY6LaTKkWNrrYGb1j+3QMFrj9ruFW2aO+xf8OBD3moCtbFRvsiWM52F/XhKakI8p/iPYd0hhFAmCfag6tz+UjO+de/gC6bCv/723qA5mR17mATqzBjR4NqAZWmfhqPDNMiciHyz4sAO7lsvXk+/M/o4Fq3K/rAIglu3ncOXUvuGgvGlimaK5ls6xXOh9TOw/29N2RfnHWkbuYJHVWWmy1eADKKreVlILHQzjOC+SeiBu/crvXsPFFiSHy0BvY962+CgtlMQEOVMil/pAfJ5boAbzDgFa4czGOqBaY4byrVmHNyJTJ6Qn7WQ4+evaB7zC1FA6VRHrKIkDj8LcDWUHUZv8C5z4xN9rqRTWZGXlVuE76ZMKnGLKmGyCCDd/sRIqAG30iM8nwYZ/gTqzPH7fsC6cMmoaDmYwhaeR/jwT/IxhWODLMf4yuqGTwYDMOlRIBlYwQMw/DjnKI7JNh9sppAZ2NQAXDjC0cghO7rk2jVpIzYQvsbCcyXMHlEqf51asu7ZbfwHVE7mqHeS/tWXPEoL+xfhuKE77yA0i06t+EevbmSPRhQSldymwWpG2cYP4pDfPY4QlSYqIeHruxG59EarZMWquIpPjiCr9RIG53Haku6IggUrKGJ/rlXYNwFJegSe1To7s1vUIeyPi5Ej71FEBHKVifIrQli1/GpI+ycfG+CtpzkSuhDm5ydW/PNeaxlGCgxPdQGTljVsNWAKXiBMGGvAAeLUoCSLsAOhQPONJi4SjZIOJYVavn3+/svx+VglA6b0OOIsRdRb7H2O33UTqIhYrD8ZiMAr2zj8d0Erw8MWynJA/uXtDXEmSNaiwDAau2GxgizSF6YP3cJF/MRAxnY5BhfaZq7Gy9JaZzoOxhw/eZlaaUfNUgVxghyjdi3qv/osfS4Y25g8M7XxeqB30SSYCPUniIMRD0VOOh3o09sEaQ1zhLZE/yFFmd09OqoZZwbqa8oJvY9H33+21GUWcv9uA4DICgm2mCMKhL/eNW/ck4knZvogCa6VzjhdJ9S+xlqYJVVPahebIocV9xTph5HestAStv2hz8XdpHs3eyb5nfrZv1d6nqrR7qslwxzAxqfAeaLwf7j27AAXneaA5S9srNck/1RpjUsFvabs8b2oYKWf00IQTQjURsvMh+yagYyygk5z2gbWRoC5CV1A6pWU0Dt3i1HqIQLvy8eTBk6eqxHUin6t0vjOsnWiyRGYddrSfUh9PNQGL2UKKdmpvq2QvAAamiLlInbp4Y9UmdDGgGxxvO/fEs="
             }
           },
-          "description_text" : "<p>\n<h1>While Loops</h1>\n<p>There is another Python statement that can also be used to build an iteration.  It is called the <code class=\"docutils literal notranslate\"><span class=\"pre\">while</span></code> statement.\nThe <code>while</code> statement provides a much more general mechanism for iterating.  Similar to the <code class=\"docutils literal notranslate\"><span class=\"pre\">if</span></code> statement, it uses\na boolean expression to control the flow of execution. The body of while will be repeated as long as the controlling boolean expression evaluates to <code class=\"docutils literal notranslate\"><span class=\"pre\">True</span></code>.</p>\n<h1>Problem</h1>\n<p>Write a function, <code>get_log_event_list</code> that takes 2 strings, a file_name and an event, and uses a while loop to output a list containing the lines where the event was found:</p>\n<p> 1. Create an empty list to hold the matching lines</p>\n<p> 2. Open a the file for reading </p>\n<p> 3. Use a while loop to check if the file has a next line, or if the next line is blank</p>\n<p> 4. In the while loop, if the event string is found in the line, add it to the list.</p>\n<p> 5. In the while loop, read the next line.</p>\n<p> 6. Outside the while loop, return the list.</p>\n<div class=\"hint\">\n    <p>Use readline()</p>\n</div>\n</html>",
+          "description_text" : "<html>\n<p>\n<h1>File I/O</h1>\n<p>So far, the data we have used in this book have all been either coded right into the program,\n    or have been entered by the user. In real life data reside in files. For example the images we worked with in the\n    image processing unit ultimately live in files on your hard drive. Web pages, and word processing documents, and\n    music are other examples of data that live in files.</p>\n<h1>Problem</h1>\n<p>Write a function, <code>get_log_event_list</code> that takes 2 strings, a file_name and an event, and outputs a list\n    containing the lines where the event was found:</p>\n<p> 1. Create an empty list to hold the matching lines</p>\n<p> 2. Open the file for reading.</p>\n<p> 3. Read through all lines in the file.</p>\n<p> 4. If the event string is found in the line, add it to the list.</p>\n<p> 5. Outside the loop, return the list.</p>\n<div class=\"hint\">\n    <p>Use readline()</p>\n</div>\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         }
       ],
       "type" : "lesson"
     },
     {
-      "id" : 584408116,
+      "id" : 587819,
       "title" : "17 Introduction to Classes and Objects",
       "task_list" : [
         {
-          "id" : 2378998,
+          "id" : 2396695,
           "name" : "17_4 User-Defined Classes",
           "files" : {
             "task.py" : {
@@ -280,13 +259,10 @@
           },
           "description_text" : "<html>\n<h1>17.4 User-Defined Classes</h1>\n<p>An object combines variables and functions into a single entity. Objects get their variables and functions from classes. Classes are essentially templates for creating your objects. You can think of an object as a single data structure that contains data as well as functions. Functions of objects are called methods. </p>\n<h1>Problem</h1>\n<p> Create a variable, <code>server_name</code>, and assign a value to it inside `ServerClass`.</p>\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2378999,
+          "id" : 2396696,
           "name" : "17_5 Improving our Constructor",
           "files" : {
             "task.py" : {
@@ -316,13 +292,10 @@
           },
           "description_text" : "<html>\n<h1>17.5 Improving our Constructor</h1>\n<p>A function that creates a new object instance\nis called a <strong>constructor</strong>.  Every class automatically uses the name of the class as the name of the constructor function.\nThe definition of the constructor function is done\nwhen you write the <code>__init__</code> function.</p>\n<p>It may be helpful to think of a class as a factory for making objects.\nThe class itself isn’t an instance of a point, but it contains the machinery\nto make point instances.   Every time you call the constructor, you’re asking\nthe factory to make you a new object.  As the object comes off the\nproduction line, its initialization method is executed to\nget the object properly set up with its factory default settings.</p>\n<p>The combined process of “make me a new object” and “get its settings initialized\nto the factory default settings” is called <strong>instantiation</strong>.</p>\n<h1>Problem</h1>\n<p>Add a <code>server_name</code> variable to the <code>__init__</code> function</p>\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2379000,
+          "id" : 2396697,
           "name" : "17_6 Adding Other Methods",
           "files" : {
             "task.py" : {
@@ -352,13 +325,10 @@
           },
           "description_text" : "<html>\n<h1>17.6 Adding Other Methods</h1>\n<p>A <strong>method</strong> behaves like a function, but it is invoked on a specific\ninstance.  For example, with a server named <code>linux</code>,  <code>linux.set_server_ip('192.168.0.1')</code> asks the <code>server</code> object to perform its\n<code>set_server_ip</code> method, and set the <code>server_ip</code> to 192.168.0.1.   Methods are accessed using dot notation.</p>\n<p>All methods defined in a class that operate on objects of that class will have <code>self</code> as their first parameter. This serves as reference to the object itself which in turn gives access to the state data inside the object.</p>\n<h1>Problem</h1>\n<p>Add a method, get_server_ip, that returns the object's <code>server_ip</code>.</p>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2379001,
+          "id" : 2396698,
           "name" : "17_7 Objects as Arguments",
           "files" : {
             "task.py" : {
@@ -388,13 +358,10 @@
           },
           "description_text" : "<p>\n<h1>17.7 Objects as Arguments</h1>\n<p>You can pass an object as an argument in the usual way.\n<h1>Problem</h1>\n<p>Create a function, biggest_ip_sum, outside of the ServerClass class, that:</p>\n<p>1. Takes two ServerClass objects </p>\n<p>2. Sums the octets of the IP together (example 127.0.0.1 = 127+0+0+1 = 128) </p>\n<p>3. Returns the larger number</p>\n\n<p>Example:</p>\n<p><code>server_one = ServerClass(\"127.0.0.1\")</code></p>\n<p><code>server_two = ServerClass(\"192.168.0.1\")</code></p>\n<p><code>result = biggest_ip_sum(server_one, server_two)</code></p>\n<p><code>print(result)</code></p>\n<p>In the example above, <code>result</code> will be 361.</p>\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2379002,
+          "id" : 2396699,
           "name" : "17_9 Instances as Return Values",
           "files" : {
             "task.py" : {
@@ -424,20 +391,17 @@
           },
           "description_text" : "<html>\n<h1>17.9 Instances as Return Values</h1>\n<p>Functions and methods can return objects.  This is actually nothing new since everything in Python is an object and we have\nbeen returning values for quite some time.  The difference here is that we want to have the method create an object using\nthe constructor and then return it as the value of the method.</p>\n<h1>Problem</h1>\n<p>Create two server objects using the class</p>\n<p>create a function, <code>biggest_server_object_sum</code>, outside of the ServerClass class, that:</p>\n<p>1. Takes an IP </p>\n<p>2. Sums the octets of the IP together (example 127.0.0.1 = 127+0+0+1 = 128) </p>\n<p>3. Returns the Server object with the larger sum</p>\n\n<p>Example:</p>\n<p><code>server_one = ServerClass(\"127.0.0.1\")</code></p>\n<p><code>server_two = ServerClass(\"192.168.0.1\")</code></p>\n<p><code>result = biggest_ip_sum(server_one, server_two)</code></p>\n<p><code>print(result)</code></p>\n<div class=\"hint\">\n    <p>Modify <code>get_server_ip</code> in the previous problem.</p>\n</div>\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         }
       ],
       "type" : "lesson"
     },
     {
-      "id" : 128223735,
+      "id" : 587820,
       "title" : "18 Advanced Classes and Objects",
       "task_list" : [
         {
-          "id" : 2379003,
+          "id" : 2396700,
           "name" : "18_0 Classes Review",
           "files" : {
             "task.py" : {
@@ -467,13 +431,10 @@
           },
           "description_text" : "<html>\n<h1>18.0 Review: User Defined Classes (17.4), Adding other Methods (17.6)</h1>\n<p>Every class should have a method with the special name <code>__init__</code>.\nThis <strong>initializer method</strong>, often referred to as the <strong>constructor</strong>, is automatically called whenever a new\ninstance of the object is created.  It gives the programmer the opportunity\nto set up the attributes required within the new instance by giving them\ntheir initial state values.  The <code>self</code> parameter (you could choose any\nother name, but nobody ever does!) is automatically set to reference\nthe newly-created object that needs to be initialized.</p>\n<p>The key advantage of using a class rather than something like a simple\ntuple is methods.  We can add methods to any class that are sensible operations.\nCreating a class brings an exceptional\namount of “organizational power” to our programs, and to our thinking.\nWe can group together the sensible operations, and the kinds of data\nthey apply to, and each instance of the class can have its own state.</p>\n<p>A <strong>method</strong> behaves like a function, but it is invoked on a specific\ninstance. For example, with a turtle named <code>tess</code>, <code>tess.right(90)</code> asks the <code>tess</code> object to perform its\n<code>right</code> method and turn 90 degrees. Methods are accessed using dot notation.</p>\n<h1>Problem</h1>\n<p>No starter code is provided. Your tasks:</p>\n<p>1. Create a class, <code>BareMetalServer</code> </p>\n<p>2. Inside the class, write a constructor that takes CPU, GPU, RAM, and HDD variables and stores them </p>\n<p>3. Add a method, get_system_info, that returns the system info in an array. Example: <code>[CPU, GPU, RAM, HDD]</code> </p>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2379004,
+          "id" : 2396701,
           "name" : "18_0 Classes Review II",
           "files" : {
             "task.py" : {
@@ -503,13 +464,10 @@
           },
           "description_text" : "<html>\n<h1>18.0 Review II: Objects as Arguments and Parameters (17.7), Instances as Return Values (17.9)</h1>\n\n<p>You can pass an object as an argument in the usual way.  Functions and methods can return objects.  This is actually nothing new since everything in Python is an object and we have\nbeen returning values for quite some time.  The difference here is that we want to have the method create an object using\nthe constructor and then return it as the value of the method.</p>\n\n<h1>Problem</h1>\n<p>You will create two classes, <code>NetworkCardClass</code> and <code>NetworkServerClass</code>. </p>\n<p>In NetworkCardClass:</p>\n<p>1. Add constructor that stores an <code>ip_address</code> (str) and a <code>model_name</code> (str) </p>\n<p>In NetworkServerClass:</p>\n<p>1. Add constructor that stores an <code>ip_address</code> (str) and a <code>network_card</code> (NetworkCardClass) </p>\n<p>2. Add a method, get_server_details, that returns the system info as a string. Example: <code>\"Name: AWS EC2 IP: 36.63.23.21 Network Card: Intel Gigabit Adapter\"</code> </p>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2379005,
+          "id" : 2396702,
           "name" : "18_2 Objects are Mutable",
           "files" : {
             "task.py" : {
@@ -539,20 +497,17 @@
           },
           "description_text" : "<html>\n<h1>18.2 Objects are Mutable</h1>\n<p>We can change the state of an object by making an assignment to one of its instance variables. For example, we could change the ip by assigning a new value to <code>self.ip</code>.</p>\n<p>We could also have an external function modify self.ip. This type of function is often called a <strong>helper function</strong>.  Second,\nthe <code>request_dhcp_ip</code> method does not return anything.  Its job is to modify the object itself.  This type of method is\nknown as a <strong>mutator</strong> method because it mutates or changes the internal state of the object.</p>\n<h1>Problem</h1>\nWe want to create a DHCP service that assigns a random, unique IP with subnet mask 255.0.0.0. This means the service only sets the last 3 octets of an IP. For example if the dhcp_service function is called by an IP of \"192.0.0.0\", it should keep the 192 and change the rest:\n<p> 1. Create a <code>dhcp_service(ip_address)</code> function, outside of the ServerClass </p>\n<p> 2. Have <code>request_dhcp_ip</code> call <code>dhcp_service</code> and set the ServerClass object's IP to the generated IP </p>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         }
       ],
       "type" : "lesson"
     },
     {
-      "id" : 540072383,
+      "id" : 587821,
       "title" : "19 Inheritance",
       "task_list" : [
         {
-          "id" : 2379006,
+          "id" : 2396703,
           "name" : "19_2 Introduction to Inheritance I",
           "files" : {
             "task.py" : {
@@ -565,7 +520,7 @@
               "name" : "tests/test_task.py",
               "placeholders" : [ ],
               "is_visible" : false,
-              "text" : "XIlL2u+4gqNTqO7La77Yde8TEbiA+02mIr56BADPAmHc96MrFY+UQCVDzXMEflrQK/Knf+uxXyBaLSxWKU6S+Qq40j5ea8L/FpQ7XQcBOo5GCoRgCeiaND7VkLA/faqgUiQKHLRluwVANm9RRh1JQ29X9eNwFjNDHbHCdUOvxQHWq19BkXLz8nCSTgC58FI718cP0hb31fUirI+az4Sl37jlYKxAhhutTv6uS2SqxrK+f53qmrXTn1kAHG0AXR1fQeUtIbVmWCdqu0Uos2y7OnEZqE8ZjCF3LAvpVLAItZ5bdSXcDFrMldFCTVmVnJvgVzDiHVkG3YADU4Jx7F4uBhBUC2Hz5zC/A3btgdUAj3uGxPX7XijL+ZA5F+eOAmLuJPFaYXgtqtEJGscj8uPMu+Vjll1IWjQ/9jKVwI0o6WG1IwPZTI/KzdvfFExC866+pwGSwHHdAdQy3hq7MO9zThuc/xmdwCdNjjgKDZN4cs9NrBJ0XZtKkqsgOMFPKGy/zfimvuKuEKacop803jyEUZaGvXwrBhI54G9F2v0NGXgInGaqqKIzISEF9nrdm7SxnEpmfY5g74jTziWrjaxpqvjInkix/rMlZwZ08WSIHMDHDRqzKE5Dj4s1mt0LR9uT5YrAvTyCOwOwgwN2enQnuRczPUXVzco6TtnJszjAH4mbyqSOFZiP/ETQ0GEccALl3l1CbZG3BY8qr07u7LygKFdg5ElEYzRpalvJPoprEnUG5hsE2d2aSO8uyX9MmgHTSZ1U+CWVVy8raF91sdBkcpx+ceXpD53hw63IZfjs51UmrtTeCuhacgf8t39XccpoIwNfAHVjlm4owsY17A0p1e0JflZnI0Jddgb8sytUS5ge5q1Y8NgbxADo8Z5yVLFv6/CqRC0MvmXPNPZkerNbhebT+VzVPWr2dgIevKRbOUxojYXjRklKx1FjlvvD+ie+aWKKifg+WT08/8Nz1Ote/nXlPyBEsu1vslm/OFAlb0z0rURBoGLDS763p2/1y0vrP5uOVNKdBtt5eMpYoFatrt2FzsUv0vVBWtuMoMOPQXwW19qgDimIWUxjy9mE3SkG1e+5ryEXQtps94+TIERbPKCcGsYDjcbe9QIB5T0z91KukcuYG3on6RiHJk9m9Y17Lh+vHxb2YI6xHgyXauDOiSltch2Raaz8VE8b6KXR37287tvuVb2u66I8K+0c34p9esBjX0VP9/5uKX6Ymzn0/hyKDcM6Ot2hbCSylAuFIkY9Hy39a47v3Nh5YDBhwNQHF6q8yik0fm+2qvAgo8ge3XyYDY9P2Xh18FGuX8YgMxdDA1DFzxAO5HMQF+yff8PaTXIS9DECOaH158V+6g141Cmctr6UJ55YivArzzZk/bS8+3uZZk70TtHA4p3JnBTDD9lVL0zfbyilraVg9ZG9U2QEhf0QANl7TCx4nKWGcTurQhqFZumvtKOb7Z6TuuIhh6rRCVTiSbuofvzN6rdGsfHQoRBgCzFAStsJUGe5g9YrQt5B7IO6ABfon5rX1bU2W622KZXoynf1QQdabWFwUkL1n4YPxtkZLgWfp/zdcG0bNzIYqtdTdcvmpK2PVhI0OrSnCOy6FoUFXLupC6fFqYVwMp7ERQTNo94Vmbyky4whGpCYrX3w5y6fIIcrCfgvOfpvP4eEB+aNlPYluMPHqs69sTErOQO8CkQHc6/dQm1icKENlgosHyycumXVmOYKwRvsQWpu5XugUbB3C/67M4S6qLFtjS/Zf81rF2cVOU8="
+              "text" : "XIlL2u+4gqNTqO7La77Yde8TEbiA+02mIr56BADPAmHc96MrFY+UQCVDzXMEflrQK/Knf+uxXyBaLSxWKU6S+Qq40j5ea8L/FpQ7XQcBOo5GCoRgCeiaND7VkLA/faqgUiQKHLRluwVANm9RRh1JQ29X9eNwFjNDHbHCdUOvxQHWq19BkXLz8nCSTgC58FI718cP0hb31fUirI+az4Sl37jlYKxAhhutTv6uS2SqxrK+f53qmrXTn1kAHG0AXR1fQeUtIbVmWCdqu0Uos2y7OnEZqE8ZjCF3LAvpVLAItZ5bdSXcDFrMldFCTVmVnJvgVzDiHVkG3YADU4Jx7F4uBhBUC2Hz5zC/A3btgdUAj3uGxPX7XijL+ZA5F+eOAmLuJPFaYXgtqtEJGscj8uPMu+Vjll1IWjQ/9jKVwI0o6WG1IwPZTI/KzdvfFExC866+pwGSwHHdAdQy3hq7MO9zThuc/xmdwCdNjjgKDZN4cs9NrBJ0XZtKkqsgOMFPKGy/zfimvuKuEKacop803jyEUZaGvXwrBhI54G9F2v0NGXgInGaqqKIzISEF9nrdm7SxnEpmfY5g74jTziWrjaxpqvjInkix/rMlZwZ08WSIHMDHDRqzKE5Dj4s1mt0LR9uT5YrAvTyCOwOwgwN2enQnuRczPUXVzco6TtnJszjAH4mbyqSOFZiP/ETQ0GEccALl3l1CbZG3BY8qr07u7LygKFdg5ElEYzRpalvJPoprEnUG5hsE2d2aSO8uyX9MmgHTSZ1U+CWVVy8raF91sdBkcpx+ceXpD53hw63IZfjs51UmrtTeCuhacgf8t39XccpoIwNfAHVjlm4owsY17A0p1e0JflZnI0Jddgb8sytUS5ge5q1Y8NgbxADo8Z5yVLFv6/CqRC0MvmXPNPZkerNbhebT+VzVPWr2dgIevKRbOUxojYXjRklKx1FjlvvD+ie+2huK4nG06Kpxva4M+9lqjUyb1u/9TGLg1bNbKYjHHsI9lTFUtaJqBSwzHbGnzmr3uuKEP6btZ0PlGDekajOsM/6bs5KE96DPuRVb75kDz5jWZLfNE2XcqvrckBJVPm51cBHAUaHlnqB6jYhiV9Ktj66eFwXuHXTO5mPJ65gbdk7tL7QJZsY3uT6/FeLftj/knnh9TujM45R56xLc4euO6ISTO1SXQbZ/LWfukxHhfBCDIJukqADdGM7/1P69QEmbicGu8gp23h3l8dtfgw2ixwRfUI1yDiN1RNdhLQc7jlfmXX2gjpUnBWE7UFyMfoPgyAWJBy1quloJqPfzvKxjhXtwEdKen6gbYZNjf/lF2JWvC4603h8V+gZeZFRhTJhHpmEwvrLgJghZzy4UJTV8wX3NEhL+rQ3nCm7O2j8GOkacBlO3RTMX+gtnq/xgnux7MUKSftx/QD5x+yfne2mIVbOYZkaM1Y1HwTOPPhsV699zxa+cJbfvXsKKaxfCsR/2+2kn81ecVIVdsXzhZsRm5TNXVLp/gah/WHVjIjQPo8mUIIzAtcIdWBks8+MpVqybDVB8Ps3+Auani3haY71darzydPBtgtzNpdzHOY0LKYbsqKyiqaNcPRWWpoxplWNBj4YsCB6LefHmK/1psug62Js8rrdsgOq66fOQSHI8E0sXsCQ/B0lWG8/sozXNc7OnLbz60R3AjlmHf2hO/pl+BEFTy2MAAa9yWBctD4ac23uo2pWtwO8enzsjq0Axa3zDV/5mKTAPe7XnRqty1QZtXLNfzKDG3huugtA2jUAbRg/+DeElc3L6Ty2Ow5Q3f2V0"
             },
             "__init__.py" : {
               "name" : "__init__.py",
@@ -582,26 +537,23 @@
           },
           "description_text" : "<html>\n<h1>19.2 Introduction to Inheritance</h1>\n<p>Suppose we want to create a class that works like <code>ServerClass</code>\nin every respect, but also keeps track of the Operating System.\nWe could create a <code>ServerWithOperatingSystem</code> class by copying and pasting the definition for\n<code>ServerClass</code>,\nchanging the name to <code>ServerWithOperatingSystem</code>, and modifying the class to suit our\npurposes. However, any time you copy and paste code, keep in mind that\nyou are copying and pasting bugs that may exist in the code. Inheritance\nprovides a way to reuse the definition of ServerClass without having to copy and\npaste.</p>\n<h1>Problem</h1>\n<p>In task.py: </p>\n<p>1. Create a <code>ServerWithOperatingSystemClass</code> object. Have <code>ServerWithOperatingSystemClass</code> inherit from <code>ServerClass</code>.</p>\n<p>2. Add a constructor (hint: <code>__init__</code>) to <code>ServerWithOperatingSystemClass</code> that stores ip, name, and operating_system variables.</p>\n<p>3. Add a <code>get_inherited_server_class_information</code> method to <code>ServerWithOperatingSystemClass</code>. It should call <code>get_server_class_information</code> in <code>ServerClass</code>\n    and append OS information. Example: <code>\"Name: AzureVM IP: 36.63.12.45 OS: Windows\"</code></p>\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2379007,
+          "id" : 2396704,
           "name" : "19_2 Introduction to Inheritance II",
           "files" : {
             "AWSServer.py" : {
               "name" : "AWSServer.py",
               "placeholders" : [ ],
               "is_visible" : true,
-              "text" : "DOHa0SJxfFBgYy5RPLZLM8tRc1Jt5bHYCxSfXD/u3emCnNKWwf4BhowQZpGdDQ0v8HhdnB2+i+8VgSw45r4b2eHJy7UpR6fCAEjGHkzGNUjRt88en5N8D4+uGzh9xAGF9VtxQtqSxspDwNrHEq13zQ=="
+              "text" : "DOHa0SJxfFBgYy5RPLZLM8tRc1Jt5bHYCxSfXD/u3emCnNKWwf4BhowQZpGdDQ0vVag3Q8W6i8dEUD/B60VzQAGs5g8EvemB7y3ZqeoqP0LjaWuv26Xu6+xxE7PVcj+k+ugz4qWz/RIaRqpcY3UMYcBt7sk0SHrTxHbF2UwKQduGjkXA132vtV4D1ZQPVuwL"
             },
             "tests/test_task.py" : {
               "name" : "tests/test_task.py",
               "placeholders" : [ ],
-              "is_visible" : false,
-              "text" : "XIlL2u+4gqNTqO7La77YddEWN7W3iwfd0XW514SLGmYdLiRLfc/0AasCE2ZJfF1ZqzkSiH8VtEzs7BLAOe20HX0lmLv0WFvjUu51O9w8Rgpgy6cyZ3S1nou25DkdYxQAnNuPNPayH9Dcb79HLkgoGzyuwTcLHX0P5sQw3IvLJ8s08l1qNf2pII3j46CFzdhKY5GwjjdpHZpHkGU029+M2mSh/nkPQtU6U1cDQorsZNtl/wJZXOdbBBAaM57ps2EBnYkdBYh4cb0DQc0+IR1t1+uFy0Hyl2wTH8tmQY0QtO4o3fhjtPc5XCA6q2430UIgAhLjq+l0EHq0npPc9WgMZiupVt0qheoGBzsr1niiYpoLYwCTXlzlM8fSLv3izfBgB0xr8JbtLPtNOpH94D2fRM+4NGyXdmmMstTLFAfGRRGxERSC2gKIz5zBxYkYdKJUN2IlfCPAhljWmnIGcQ7iy/bKDV87Lvp+3W4392ggvoHvn+J/qa3+8DYV149KgCG7mswGMeHOh/8/xwuUvAVFOyPeAdVuLsfGhkMmbubuyDqXQ2J3GvimCfabjiJAILE8dKAN2HzDyxIT4DNywZNWCTKJfBs9wDHzRD0d3Khf6y4TqWibpjnH8jmdabtNlt7qGgfaho5RWxuJK1ZpRyxitMKxAGTtrFnR2Hisyo853+kxUglflu+gP8Sw+VNxXi9hyQ1n6k/2JCQwQcee4DlLc8Hs964vV0oaAB0sAihw/lUG2o26Fpgo+jZr8NflD0i7cGVnqQsaU4PNG0pUuDvW0XERRaMoHVv9ZHELMfRJvfwXxebgnrJGGZQOEJ+nm2r3+kRwbmZJim4vDHFixhKQmjVNmLbhpOfy2PczZcmTY/NKfES7fFcOIou16PNqgbgeMS0hLPktF55q5y5trSMocDBchRrHXOMQSjYBJGWQnf+qaEZXNBo8nr8vxVaN1wQzxi2d7kWmqIMEzjIZCOJhpokA8qYk1mgmKoBXuzAxhUow+73TgTF2SXMykvVjhRfL75ZaJkTVJPheYQK/butoLTSgRnLIIHMcm3cJ4ZJ9A0c7JBknE9Yh0D+jAyM5Lqe43w5vka7snMOEZO1hF7vkhjW71SK0BJCizFn4Hza8JdSIYZibxc4EgwFJ6d1lUaFYQOYe9YGp/uyGTL25rP5Qz2NOYO7stwp0jx4Iif6JWlwffvvBgwSO0mt2tCoz7FbReD5sdchpU2RqFrK9pC1aLChztN1269iAa5AZCpntHEnfLzbpQs8GWGjNY96B2LtlpW4QsBXocpnmNAI5NzajFUw3GRZz4g/7hur+8ZnLIHH+6XfTE57P0ZLQiIyXjBg6v34zYGhhOSFR0K29e5PE0XaD7uWcsGIF3IKWGOYq3CVeYG/BIGq0yEvZHk6t7iyN4/lfftY+ES2k1UYV/3kxEwSE/Wr69UcXjHj4YCZmNX97SEMv6hlLMitZ+1C1DeKju+pFTYp4tWZbwDSxpgTVxcXjKrs+kP9yM9ZwXu02/IJv+Ok9Sk9qaPmnjCtDuDlP"
+              "is_visible" : true,
+              "text" : "XIlL2u+4gqNTqO7La77YdWXuHO8mxOPCmqTMNysZPrWOc2Bnfbh+VjfkGMbrTl1CeHyncRhOW2H7Ukj+4Rjz5wJF6/HW5cUj+/I2RFhP200Dijc9GBmRvKCJCWXtW8WvroUBSMD5I5i3nK5ugB6AOdAMs2l6WeVPbszSrSDSLo/7Q359VwvTTL2RtVIY1NchbkTbp7HAdmxkzOHbtYNCmNwSLt1WkyfiotadjmOGq9FGy4HUd8GHmg55yIA95IBMHQ5QhTI6p8m15Zc3yB0Xdsyk2uvzde35WaQrEcC8IHoE3+JB7aYQX5szDWywN18RLq7BLWhsPXEqmgPW6mjpnWV/GobyYLKdj1bP2bsVsG3T6ZcNYf7/4T5JDgzq024E9hg7uYDVrOq7FHF8DxUwKn+2SdFIBTTz7Lrg+yhi342VJWEDSNruFi3c57bLbuwhzlY8d6OuGwwKOQjLiOol1sGH4aQ42dRPsmtnZRyhry1QPAI6Z8yoXCY9KIdqgzrf6ukIi75JRB9bGStVKD3syoM9YuTFe5ThiBCXG1MdrWKDql2wv5KMgDfHSNjSMPGkrxyGCB9yin+Elqf65gZLHWC075NEtSgaZ4of+T/YI5ZUSQxxLyO315VbjcEY1DzqpzLc4GutoY7oNxTfkLVUli4aC5JLHAQ6hPEUKusUb+StyxzvyITFzPtbERrh0q/N5OJBdPnNejSdC2FkZdktz4GfQ2JUbQs/4wXGL2cxSW2f9pV5RKE7ePB6FprDA6NFw4XkZIu0Hche+XZC+WJGjrowZayCNY3vCDBc6IiwPaRJXtA0pkBsKAxoG/Ftm78Nrsc5w1w8aCe7iKiUsV6B4HAyXTD3jjjhR589zHW98t+Ia/6HY1ctcJlpcxzr3K1l2JnzstUk05SccWWIIxqSV03FBGws5SUUnQLS1dWeYmblPf+VkjD1p/gAPd2iRIdnaUk89hnXa5tb+e9/SVNZjayOCdb2YhnBSB5d0uTSc3+o4I5bEqmO3Y3mSuatyJdThrS0UuRHTjBphpSccE+3jWlAH9GD0kBX9LT5kMy5JahUylUm5lwBq7xAC+1RDXYei8vxKY9gIMu8bNZYdxOZUv8LssC6obFxXJR+vnGaG+rOMcOWCByFQxHUg+bzzUjL3sqPJEPXd2YJefjhIwNt6XewvLP4j/WRz4kzHX0INDNTVn8ccSJLa8yMU6mHXSQI3zPt+Qw4cEaAufyVmxqFB37JbqFP00G/ykNsNIduvH03OF6b+0U/zHkT4fUdfJZ9MyOKFH5cgMk0KCLPbtfq+cU7wDm1W4QarQAHJ6Fk06D/3lmefJGtF22tRdkG15TMUFIgPuU2C7JCu7xuY/P5PeDOUAmw2vI8/YC9Vx0fTeVZLBCvJR5S9AF8KhaOoL5vYG/umituItoSNc1TVeRxBRCM3n0oH6ZUp/JyqZFIRixZOEau//a1xRm7iYQ717+9wNFQlsWm65cHtQphVEn7+A07LvnWGK9jxiNsRRYvLWSGQ/s7Br94rzYGtu2O7mtu"
             },
             "__init__.py" : {
               "name" : "__init__.py",
@@ -613,30 +565,27 @@
               "name" : "tests/__init__.py",
               "placeholders" : [ ],
               "is_visible" : false,
-              "text" : "Uc0pG0fPsEh6ROOHqy+vo/fC9hMQbbjWDeT20VD2yuBRZZ2q99/bALp0N20mcS5uDL70N6M7abYwf9jKIGghKQNFm/t2MnZPb4PC3Gf/a4F4JbcsnFPaymSv3Mqfz6YT"
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
             },
             "ServerClass.py" : {
               "name" : "ServerClass.py",
               "placeholders" : [ ],
               "is_visible" : true,
-              "text" : "mHKGhTXlV0qAHv2Qmq4qxvP3ZNIA/HykphpsKGihHAORSYCX1qf7FpYqt+5iqb59VOO1IGRFUUsSj0S4ruWXx1s7MwheGWJn8qP9ZfXQXbhqMhFkLDBlTJ1nvEfy1gxH1zkTqNL+IAFSyPDtZdsiJA=="
+              "text" : "mHKGhTXlV0qAHv2Qmq4qxvQcQs2OoMadD9oSveN8LniM0idL+kXH1oZaHSL/Rnis7skjtlGqUhk3MukrB9qd0gIRs4yY5nkLJAasi3dL99q1DSuoQHsbog5T09tTMTJBZQemXAkFKpLorn4R0+uI6XQwy6HYyr7dGlLutfQyuEo="
             },
             "task.py" : {
               "name" : "task.py",
               "placeholders" : [ ],
               "is_visible" : true,
-              "text" : "cmiGmmVf/GRsMSCHiBnkCIxNNhm9oNbMO/ar66yybobQWIpBt8LCf8lbPPdRo1xBwep8QcqUxdAivTVVh3Iq8qB8Fji/RGknFUDboh3dv3b5YcepFZ6DkZMPD/qK2/G8"
+              "text" : "cmiGmmVf/GRsMSCHiBnkCIxNNhm9oNbMO/ar66yybobQWIpBt8LCf8lbPPdRo1xBAjJ815jEvKrL+GaZjA1CbzLY59FoR7N95HwudnaW4zNioywN0f4pqEZfxs65Q3iajv4hG3T6GbnMSnOmiZzPfSYnNjerKxHZ1kNsATwv5IStCmoryt6HwzRvu6JfncG6l1n/YuEg1FKJhw7eC218nHkiaPcebQ6dxJBieYA8kz4="
             }
           },
           "description_text" : "<html>\n<h1>19.2 Introduction to Inheritance</h1>\n<p>Now, suppose we want to create a class that works like <code>ServerClass</code>\nin every respect, but also keeps track of the AWS instance type.\nWe could create a <code>AWSServer</code> class by copying and pasting the definition for\n<code>ServerClass</code>,\nchanging the name to <code>AWSServer</code>, and modifying the class to suit our\npurposes. However, any time you copy and paste code, keep in mind that\nyou are copying and pasting bugs that may exist in the code. Inheritance\nprovides a way to reuse the definition of ServerClass without having to copy and\npaste.</p>\n<h1>Problem</h1>\n<p>Create a <code>ServerClass</code> object, have <code>AWSServer</code> inherit from <code>ServerClass</code>, and then create a ServerClass object and an AWSServer object in task.py:</p>\n<p>In ServerClass.py:</p>\n<p> 1. Create an __init__ with ip and name variables</p>\n<p>In AWSServer.py:</p>\n<p> 1. Create a class that inherits from ServerClass</p>\n<p> 2. Create an __init__ with ip, name, and instance_type variables\n<p>In task.py:</p>\n<p> 1. Import ServerClass object from ServerClass.py</p>\n<p> 2. Import AWSServer object from AWSServer.py</p>\n<p> 3. Create a local_server variable of ServerClass type. Initialize the variables to your choice. </p>\n<p> 4. Create an aws_server variable of AWSServer type. Initialize the variables to your choice. </p>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         },
         {
-          "id" : 2379008,
+          "id" : 2396705,
           "name" : "19_5 Class Diagrams",
           "files" : {
             "tests/test_task.py" : {
@@ -690,15 +639,14 @@
           },
           "description_text" : "<html>\n<h1>19.5 Class Diagrams</h1>\n<p>When two classes are involved in an inheritance or composition relationship,\nwe say that an association exists between them. Often it is helpful to\ndepict the associations between classes on a graphical diagram, so that\ndevelopers working on the code can see at a glance how the classes are\nrelated to each other. The <em>Unified Modeling Language</em> (UML) is a graphical\nnotation that provides a standard for depicting classes and their\nassociations on various types of diagrams. Class diagrams can contain a number of\ndifferent elements, but we will focus on the basics: depicting classes with their\ninstance variables and methods, and relationships to other classes.</p>\n<p>On a UML class diagram, a class is depicted as a rectangle with three sections.\nThe top section contains the class name; the middle section, the instance\nvariables; and the bottom section, the methods.</p>\n<h1>Problem</h1>\n<p>In this final problem, you will design an access control system, similar to what you see in an operating system.</p>\n<p>Implement the classes based on this UML diagram, and write the <code>add_action</code> in the User class.</p>\n<img src=\"UserUMLDiagram.png\"/>\n<p>Starting with the base code in the <code>User</code> class, code the Admin, NormalUser, and PowerUser classes.\nThey will inherit from the User class.</p>\n<p>Next, write the add_action method in User. add_action should check if the call was made by an Admin.</p>\n\n<div class=\"hint\">\n    <p>The NormalUser, PowerUser, and Admin constructors (hint: <code>__init__</code>) are almost the same as the\n    User class. You could copy-and-paste much of the User constructor into those Py files to get some tests passing.</p>\n    <p><code>add_action</code> should only work for Admins. One way to do this is to check if the user who\n    called add_action (self) has \"Admin\" in their type string. For example <code>if str(type(self)) == \"Admin\":</code> </p>\n</div>\n\n</html>",
           "description_format" : "HTML",
-          "feedback_link" : {
-            "link_type" : "MARKETPLACE"
-          },
           "task_type" : "edu"
         }
       ],
       "type" : "lesson"
     }
   ],
+  "id" : 83561,
+  "update_date" : "Nov 17, 2021 02:11:15 AM",
   "additional_files" : [
     {
       "name" : "main.py",
@@ -707,6 +655,6 @@
       "text" : "ATkvNzh1VDefS9A3blcwwOKYubnI/s3f984Fq/9yrIICkUwR9ghAhrgLlHeIONau8HpHR6PtbLxxyJjWuJJSIW8yvTIMH6BtPwGTdwBCALvDXHUkrBJXdkcx1AEi/1FP7Q6ea81zc7DtQ5vECfyOR0i58r0Pn3T3QswuoPAyKpxtYB0JGIi3noI6eHbB48kp6O9mVbiIzBaBX5OSIC+EBH4T5noYx0vPfSl+bcBluZl+R/atkhAIyZiya8B/lINFJu/ZXs3sr4u5M4OKRYRGD1R38Se08htM8tM7evXvqE7IHWpbYLTflRXtKdb1AmJ2SRtzehpyztJDVakdpAr9WOoNHN7xP9sOuOGI+F7JmCu/wmjoNKp336VgoLPkxopdKRHrPiSlcBe9VRdXrgd0VodkkJPhqgycNSSCKE3Eo0boQlJrF/PVjO6wYc4vJU9sd+EycmoFmbiBUCe3WU12cPwJb24HAuy14Wecs6vbj2kLLINqMbgztbySaSnAbB2jxzlNshdGWL0tH5/e70Pu0vXm6PedRzClOU1r15YylDXuBJ5ue7DV4mdAfVwZRSTQNrticukiPo1ps6I1Tbaxtl4qUF9mzGQpvCm5O9rx4Gg="
     }
   ],
-  "version" : 11,
-  "edu_plugin_version" : "2021.8-2021.2-298"
+  "version" : 12,
+  "edu_plugin_version" : "2021.10-2021.2-627"
 }

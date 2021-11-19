@@ -1,2 +1,4 @@
 # TODO - Create AWSServer that inherits from ServerClass
-# TODO - Add a variable 'instance_type'
+class AWSServer:
+    # TODO - Remove pass. Create an initializer function. Add a variable to the init, 'instance_type'
+    pass

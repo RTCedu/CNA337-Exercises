@@ -11,4 +11,4 @@ files:
 - name: user_data.log
   visible: true
 - name: tests/test_task.py
-  visible: false
+  visible: true

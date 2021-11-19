@@ -3,7 +3,7 @@ files:
 - name: AWSServer.py
   visible: true
 - name: tests/test_task.py
-  visible: false
+  visible: true
 - name: __init__.py
   visible: false
 - name: tests/__init__.py
@@ -11,22 +11,4 @@ files:
 - name: ServerClass.py
   visible: true
 - name: task.py
-  visible: true
-- name: 19_2 Introduction to Inheritance I/tests/__init__.py
-  visible: true
-- name: 19_2 Introduction to Inheritance I/tests/test_task.py
-  visible: true
-- name: 19_2 Introduction to Inheritance I/task.py
-  visible: true
-- name: 19_2 Introduction to Inheritance I/task.html
-  visible: true
-- name: 19_2 Introduction to Inheritance I/__init__.py
-  visible: true
-- name: 19_2 Introduction to Inheritance I/AWSServer.py
-  visible: true
-- name: 19_2 Introduction to Inheritance I/ServerClass.py
-  visible: true
-- name: 19_2 Introduction to Inheritance I/task-info.yaml
-  visible: true
-- name: 19_2 Introduction to Inheritance I/task-remote-info.yaml
   visible: true

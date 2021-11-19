@@ -12,7 +12,7 @@ class TestCase(unittest.TestCase):
 
     def test_server_with_operating_system_class_check_type(self):
         inherited_server = ServerWithOperatingSystemClass("127.0.0.1", "localhost", "Linux")
-        self.assertIn("InheritedServerClass", str(type(inherited_server)))
+        self.assertIn("ServerWithOperatingSystemClass", str(type(inherited_server)))
 
     def test_server_with_operating_system_class_check_subclass(self):
         self.assertTrue(issubclass(ServerWithOperatingSystemClass, ServerClass))

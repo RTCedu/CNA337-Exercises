@@ -2,7 +2,7 @@ import unittest
 
 from random import randint
 
-from task import ping
+from task import ping, fake_ping
 
 # todo: replace this with an actual test
 class TestCase(unittest.TestCase):
